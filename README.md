@@ -22,7 +22,7 @@ Alternatively, it can be run from the terminal itself.
 ```sh
 $chmod u+x Server.py Client.py p2p.py
 ````
-##2. Run the program
+## 2. Run the program
 ````sh
 $ ./Server.py
 ````
